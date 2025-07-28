@@ -1,29 +1,103 @@
-<script>
-// Set proper content type for manifest
-document.contentType = 'application/json';
-</script>
-
-<div style="display: none;">
 {
   "name": "HuhuRez - Pensii Militare România",
   "short_name": "HuhuRez",
-  "description": "Ganduri despre trecut, prezent si viitor",
+  "description": "Ganduri despre trecut, prezent si viitor - Blog despre pensii militare și drepturi în România",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#e4e0db",
   "theme_color": "#8c2828",
   "orientation": "portrait-primary",
+  "categories": ["news", "government", "lifestyle"],
+  "lang": "ro",
+  "scope": "/",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/[YOUR_ICON_URL]/icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
+      "src": "/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/[YOUR_ICON_URL]/icon-512x512.png",
+      "src": "/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/screenshot-mobile.png",
+      "sizes": "375x812",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Căutare avansată",
+      "short_name": "Căutare",
+      "description": "Caută în arhiva blogului",
+      "url": "/search",
+      "icons": [
+        {
+          "src": "/icon-search-96x96.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Comentarii recente",
+      "short_name": "Comentarii",
+      "description": "Vezi ultimele comentarii",
+      "url": "/#comments",
+      "icons": [
+        {
+          "src": "/icon-comments-96x96.png",
+          "sizes": "96x96"
+        }
+      ]
     }
   ]
 }
-</div>
