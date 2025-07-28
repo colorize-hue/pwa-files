@@ -2,59 +2,35 @@
   "name": "HuhuRez - Pensii Militare România",
   "short_name": "HuhuRez",
   "description": "Ganduri despre trecut, prezent si viitor - Blog despre pensii militare și drepturi în România",
-  "start_url": "/",
+  "start_url": "https://www.huhurez.com/",
   "display": "standalone",
   "background_color": "#e4e0db",
   "theme_color": "#8c2828",
   "orientation": "portrait-primary",
   "categories": ["news", "government", "lifestyle"],
   "lang": "ro",
-  "scope": "/",
+  "scope": "https://www.huhurez.com/",
   "icons": [
     {
-      "src": "/icon-72x72.png",
-      "sizes": "72x72",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSSb-N4mH29MpfqdLKEH1h_T0Frer_KKuv3g6Jjm1vqiUG_t20WSyQnGVIHsMo2gUxxsTZkE-0hhOkNrALu03ceuZyExMeeAsx9XsWWr0RT4WGLSMXH-zbnx8qg2oCmWMRQkn-HWPr7vVCEFMioV2-nKEQ6pq-hExl6em_m15yExPVAfTG6glzhcoxaeE/s1600/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnok3CFUATuts96CB1Cm_N8rTqviVYF2tsEl0u27k_2zCcsyLWSwl2b7-duJ0ERf0V2q8orhMncTMWHaeLjXjqEKzJPAaySJQUHM03RJLE4jNBClaNf4OBrxW0HLBsFkDLPKYEXMZkELwnTgYixivsvmD20EXKOzvl_PcxLbXnqQ-S9p1NX0E87kcdUX0/s1600/apple-touch-icon.png",
+      "sizes": "180x180",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/icon-96x96.png",
-      "sizes": "96x96",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "/icon-128x128.png",
-      "sizes": "128x128",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "/icon-144x144.png",
-      "sizes": "144x144",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "/icon-152x152.png",
-      "sizes": "152x152",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "/icon-192x192.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglwcYFv9xvWAC4DkbgmeapUipse0Ur87XnUsqzL6pINOgsHDu2f4rIn5V35AZw59X6MSgwRzNmVqj_3-QmqMUwdKkq7IOPKVygHAl2Fb4TNzpKIYNLqmrxg1a2-hutH69DfMUi5BkZThLIYwLvUqy0YyLPV_N8cakF-4tFBs6oHdetIsYKQNEHsDJjCx0/s1600/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/icon-384x384.png",
-      "sizes": "384x384",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "/icon-512x512.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio3oqfaDdJ3PlV-9K7DkRdis5IoYZuSrU2eGn-b8gxRUZZiGt605j1zoorBol_ymN0HyuxBAT2cOCz5RFTpQR6dvFxALo-wirB2_bcwvCzXoSMAKy5Rudzkd7vB5bjSEz9X3vBXtbmLWlilElkg_86eeuJcGow28KQemhHJrHLc5iUwo1CtpsProtSIg0/s1600/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
@@ -62,13 +38,13 @@
   ],
   "screenshots": [
     {
-      "src": "/screenshot-wide.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio3oqfaDdJ3PlV-9K7DkRdis5IoYZuSrU2eGn-b8gxRUZZiGt605j1zoorBol_ymN0HyuxBAT2cOCz5RFTpQR6dvFxALo-wirB2_bcwvCzXoSMAKy5Rudzkd7vB5bjSEz9X3vBXtbmLWlilElkg_86eeuJcGow28KQemhHJrHLc5iUwo1CtpsProtSIg0/s1600/android-chrome-512x512.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide"
     },
     {
-      "src": "/screenshot-mobile.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglwcYFv9xvWAC4DkbgmeapUipse0Ur87XnUsqzL6pINOgsHDu2f4rIn5V35AZw59X6MSgwRzNmVqj_3-QmqMUwdKkq7IOPKVygHAl2Fb4TNzpKIYNLqmrxg1a2-hutH69DfMUi5BkZThLIYwLvUqy0YyLPV_N8cakF-4tFBs6oHdetIsYKQNEHsDJjCx0/s1600/android-chrome-192x192.png",
       "sizes": "375x812",
       "type": "image/png",
       "form_factor": "narrow"
@@ -79,11 +55,11 @@
       "name": "Căutare avansată",
       "short_name": "Căutare",
       "description": "Caută în arhiva blogului",
-      "url": "/search",
+      "url": "https://www.huhurez.com/p/cautare.html?q=postari%20populare",
       "icons": [
         {
-          "src": "/icon-search-96x96.png",
-          "sizes": "96x96"
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglwcYFv9xvWAC4DkbgmeapUipse0Ur87XnUsqzL6pINOgsHDu2f4rIn5V35AZw59X6MSgwRzNmVqj_3-QmqMUwdKkq7IOPKVygHAl2Fb4TNzpKIYNLqmrxg1a2-hutH69DfMUi5BkZThLIYwLvUqy0YyLPV_N8cakF-4tFBs6oHdetIsYKQNEHsDJjCx0/s1600/android-chrome-192x192.png",
+          "sizes": "192x192"
         }
       ]
     },
@@ -91,11 +67,11 @@
       "name": "Comentarii recente",
       "short_name": "Comentarii",
       "description": "Vezi ultimele comentarii",
-      "url": "/#comments",
+      "url": "https://www.huhurez.com/#comments",
       "icons": [
         {
-          "src": "/icon-comments-96x96.png",
-          "sizes": "96x96"
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglwcYFv9xvWAC4DkbgmeapUipse0Ur87XnUsqzL6pINOgsHDu2f4rIn5V35AZw59X6MSgwRzNmVqj_3-QmqMUwdKkq7IOPKVygHAl2Fb4TNzpKIYNLqmrxg1a2-hutH69DfMUi5BkZThLIYwLvUqy0YyLPV_N8cakF-4tFBs6oHdetIsYKQNEHsDJjCx0/s1600/android-chrome-192x192.png",
+          "sizes": "192x192"
         }
       ]
     }
